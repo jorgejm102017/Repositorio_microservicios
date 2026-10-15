@@ -1,3 +1,6 @@
+# Trabajo realizado por Jorge Jimenez Muñoz 
+
+
 ## Arquitectura monolítica
 
 Toda la aplicación (interfaz, lógica y acceso a datos) está en un único bloque de código que se despliega junto.
